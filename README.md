@@ -1,6 +1,6 @@
 # Zimbabwe Weather Pipeline
 
-![Zimbabwe Weather Monitor dashboard](Zimbabwe%20Weather%20Dashboard.png)
+![Zimbabwe Weather Monitor dashboard](ZimbabweWeatherDashboardScreenshot.png)
 
 An end-to-end data pipeline that collects hourly weather data for eight Zimbabwean cities, stores it in SQL Server, and reports it in a Power BI dashboard.
 
