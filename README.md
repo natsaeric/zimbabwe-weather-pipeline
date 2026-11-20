@@ -1,5 +1,7 @@
 # Zimbabwe Weather Pipeline
 
+![Zimbabwe Weather Monitor dashboard](Zimbabwe Weather Dashboard.png)
+
 An end-to-end data pipeline that collects hourly weather data for eight Zimbabwean cities, stores it in SQL Server, and reports it in a Power BI dashboard.
 
 **Pipeline:** Open-Meteo API → Python → SQL Server (stage table + MERGE) → Power BI
